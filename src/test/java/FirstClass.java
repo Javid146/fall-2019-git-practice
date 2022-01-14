@@ -4,16 +4,8 @@ public class FirstClass {
 
 
 
+        System.out.println("Helloooooooo");
 
 
-
-
-
-
-
-
-
-
-        
     }
 }
